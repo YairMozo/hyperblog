@@ -1,6 +1,6 @@
 Esta es una prueba de git
 
-prueba prueba
+prueba prueba de git en consola 
 
-Hola Yair Arbey Mozo Patron
- 
+Hola Yair Arbey Mozo Patron de 33 años
+
